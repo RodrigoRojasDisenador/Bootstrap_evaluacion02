@@ -1,0 +1,25 @@
+.container {
+font-family: 'Allan', cursive;
+    font-family: 'Arvo', serif;
+
+}
+
+.jumbotron {
+    background: url(../img/head.jpg);
+    background-position: left;
+    background-size: cover;
+
+
+}
+
+
+.navbar {
+    font-size: 10px;
+
+}
+
+.nav-item {
+
+    letter-spacing: 1px;
+
+}
